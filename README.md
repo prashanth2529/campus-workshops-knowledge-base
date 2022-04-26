@@ -1,4 +1,4 @@
-# campus-workshops-knowledge-base
+# Betsol campus-workshops
 Knowledge Base for Campus Workshops
 
 
